@@ -6,7 +6,9 @@
 <p align="center">
   <b>Aspiring Data Scientist | Python | SQL | Machine Learning</b>
 </p>
-##💻 Aspiring Data Scientist | AI & Machine Learning Enthusiast
+
+###💻 Aspiring Data Scientist | AI & Machine Learning Enthusiast
+
 
 I'm passionate about learning Data Science, Machine Learning, and Artificial Intelligence. I enjoy solving real-world problems using Python and continuously improving my technical skills.
 
