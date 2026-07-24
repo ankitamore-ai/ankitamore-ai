@@ -1,10 +1,17 @@
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=3000&pause=1000&color=00BFFF&center=true&vCenter=true&width=700&lines=👋+Hi,+I'm+Ankita+More" />
-</p>
+<h1 align="center">👋 Hi, I'm Ankita More</h1>
 
 <p align="center">
-  <b>Aspiring Data Scientist | Python | SQL | Machine Learning</b>
+Aspiring Data Scientist | Python | SQL | Machine Learning
 </p>
+
+---
+
+## 💻 Aspiring Data Scientist | AI & Machine Learning Enthusiast
+
+Welcome to my GitHub! I'm passionate about Data Science, Machine Learning, and Artificial Intelligence. I enjoy building real-world projects, solving problems with Python, and continuously improving my technical skills.
+
+---
+
 ##💻 Aspiring Data Scientist | AI & Machine Learning Enthusiast
 
 Welcome to my GitHub! I'm passionate about learning Data Science, Machine Learning, and Artificial Intelligence. I enjoy solving real-world problems using Python and continuously improving my technical skills.
