@@ -1,11 +1,11 @@
 
-<h1 align="center">
-<code>👋 Hi, I'm Ankita More</code>
-</h1>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=36&pause=1000&color=00BFFF&center=true&vCenter=true&width=700&lines=👋+Hi,+I'm+Ankita+More;🚀+Welcome+to+my+GitHub+Profile;Python+%7C+SQL+%7C+Machine+Learning;Deep+Learning+%7C+Data+Science" alt="Typing SVG" />
+</p>
 
-<h2 align="center">
-<code>🚀 Welcome to my GitHub Profile</code>
-</h2>
+<h3 align="center">
+Aspiring Data Scientist | AI & Machine Learning Enthusiast
+</h3>
 
 ##💻 Aspiring Data Scientist | AI & Machine Learning Enthusiast
 
