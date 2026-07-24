@@ -1,7 +1,7 @@
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=34&duration=3000&pause=1000&color=00BFFF&center=true&vCenter=true&width=700&lines=👋+Hi,+I'm+Ankita+More;Aspiring+Data+Scientist;Python+%7C+SQL+%7C+Machine+Learning;Building+Real-World+Projects" />
 </p>
-💻 Aspiring Data Scientist | AI & Machine Learning Enthusiast
+##💻 Aspiring Data Scientist | AI & Machine Learning Enthusiast
 
 Welcome to my GitHub! I'm passionate about learning Data Science, Machine Learning, and Artificial Intelligence. I enjoy solving real-world problems using Python and continuously improving my technical skills.
 
