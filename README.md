@@ -1,12 +1,11 @@
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=36&pause=1000&color=00BFFF&center=true&vCenter=true&width=700&lines=👋+Hi,+I'm+Ankita+More;🚀+Welcome+to+my+GitHub+Profile;Python+%7C+SQL+%7C+Machine+Learning;Deep+Learning+%7C+Data+Science" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=3000&pause=1000&color=00BFFF&center=true&vCenter=true&width=700&lines=👋+Hi,+I'm+Ankita+More" />
 </p>
 
-<h3 align="center">
-Aspiring Data Scientist | AI & Machine Learning Enthusiast
-</h3>
-
+<p align="center">
+  <b>Aspiring Data Scientist | Python | SQL | Machine Learning</b>
+</p>
 ##💻 Aspiring Data Scientist | AI & Machine Learning Enthusiast
 
 I'm passionate about learning Data Science, Machine Learning, and Artificial Intelligence. I enjoy solving real-world problems using Python and continuously improving my technical skills.
