@@ -1,20 +1,15 @@
-<h1 align="center">👋 Hi, I'm Ankita More</h1>
 
-<p align="center">
-Aspiring Data Scientist | Python | SQL | Machine Learning
-</p>
+<h1 align="center">
+<code>👋 Hi, I'm Ankita More</code>
+</h1>
 
----
-
-## 💻 Aspiring Data Scientist | AI & Machine Learning Enthusiast
-
-Welcome to my GitHub! I'm passionate about Data Science, Machine Learning, and Artificial Intelligence. I enjoy building real-world projects, solving problems with Python, and continuously improving my technical skills.
-
----
+<h2 align="center">
+<code>🚀 Welcome to my GitHub Profile</code>
+</h2>
 
 ##💻 Aspiring Data Scientist | AI & Machine Learning Enthusiast
 
-Welcome to my GitHub! I'm passionate about learning Data Science, Machine Learning, and Artificial Intelligence. I enjoy solving real-world problems using Python and continuously improving my technical skills.
+I'm passionate about learning Data Science, Machine Learning, and Artificial Intelligence. I enjoy solving real-world problems using Python and continuously improving my technical skills.
 
 ---
 
