@@ -7,10 +7,9 @@
   <b>Aspiring Data Scientist | Python | SQL | Machine Learning</b>
 </p>
 
-### 💻 Aspiring Data Scientist | AI & Machine Learning Enthusiast
+💻 Aspiring Data Scientist | AI • Machine Learning • Data Science
 
-I'm passionate about learning Data Science, Machine Learning, and Artificial Intelligence. I enjoy solving real-world problems using Python and continuously improving my technical skills.
----
+Passionate about Data Science, Machine Learning, and Artificial Intelligence. I enjoy building practical projects, solving real-world problems, and continuously improving my technical skills.
 
 ## 🚀 About Me
 
