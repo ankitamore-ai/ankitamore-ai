@@ -1,5 +1,9 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=34&duration=3000&pause=1000&color=00BFFF&center=true&vCenter=true&width=700&lines=👋+Hi,+I'm+Ankita+More;Aspiring+Data+Scientist;Python+%7C+SQL+%7C+Machine+Learning;Building+Real-World+Projects" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=3000&pause=1000&color=00BFFF&center=true&vCenter=true&width=700&lines=👋+Hi,+I'm+Ankita+More" />
+</p>
+
+<p align="center">
+  <b>Aspiring Data Scientist | Python | SQL | Machine Learning</b>
 </p>
 ##💻 Aspiring Data Scientist | AI & Machine Learning Enthusiast
 
